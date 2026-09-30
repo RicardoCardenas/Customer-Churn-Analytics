@@ -1,0 +1,19 @@
+# Manipulación y análisis numérico
+pandas>=2.0.0
+numpy>=1.24.0
+openpyxl>=3.1.0
+
+# Motor de consultas SQL
+duckdb>=0.9.0
+
+# Visualización estadística
+matplotlib>=3.7.0
+seaborn>=0.13.0
+
+# Modelado y Clustering
+scikit-learn>=1.3.0
+
+# Entorno de ejecución interactivo
+ipykernel>=6.25.0
+notebook>=7.0.0
+jupyter>=1.0.0
